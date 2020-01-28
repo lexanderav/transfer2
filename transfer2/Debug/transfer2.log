@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lexanderav\source\repos\transfer2\transfer2\main.cpp(53,11): warning C4018: <: несоответствие типов со знаком и без знака
+  transfer2.vcxproj -> C:\Users\lexanderav\source\repos\transfer2\Debug\transfer2.exe
